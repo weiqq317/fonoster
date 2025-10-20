@@ -119,6 +119,14 @@ main(request).catch(console.error);
 
 To get started with Fonoster, use the following resources:
 
+### 📚 Documentation
+- [📖 Complete Documentation](./doc/README.md) - 完整的项目文档和架构说明
+- [🚀 Development Setup](./doc/development.md) - 开发环境搭建和贡献指南
+- [⚙️ Configuration Guide](./doc/configuration.md) - 环境变量和服务配置
+- [🔧 Troubleshooting](./doc/troubleshooting.md) - 常见问题和解决方案
+- [📖 API Reference](./doc/api.md) - 完整的 API 接口文档
+
+### 🌐 Online Resources
 - [Deploying Fonoster with Docker](https://docs.fonoster.com/self-hosting)
 - [Guide for Early Access User](https://docs.fonoster.com/quickstart)
 - [Getting started with Fonoster](https://docs.fonoster.com/quickstart)
